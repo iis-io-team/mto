@@ -2,3 +2,6 @@
 2. Lab 1 - https://docs.google.com/document/d/1gzFV1A4WAK0OgMIGkew5PDMjLEiJR6giqS8dKzXg3NE/edit?usp=sharing
 3. Lab 2 - https://docs.google.com/document/d/15g_e5xH7xLFsX-xDY_h_Omu2GwWA-Qc9TXjELCkUZe4/edit?usp=sharing
 4. Lab 3 - https://docs.google.com/document/d/1sBwbCxeD5dAvSJzEiE1Wck9d77rG3nDA9ziiCtOxQUU/edit?usp=sharing
+5. Testy integracyjne
+..* slajdy wykładowe - https://drive.google.com/file/d/0B4FW34hyRAvyWkNUc3dQY3RURWM/view?usp=sharing
+..* opis laboratorium - https://docs.google.com/document/d/1bpDVwJH7ppsRdk2W0ewbvl-Xq7sgOoQD1G23UMQYojE/edit?usp=sharing
