@@ -6,3 +6,4 @@
   * slajdy wykładowe - https://drive.google.com/file/d/0B4FW34hyRAvyWkNUc3dQY3RURWM/view?usp=sharing
   * opis laboratorium - https://docs.google.com/document/d/1bpDVwJH7ppsRdk2W0ewbvl-Xq7sgOoQD1G23UMQYojE/edit?usp=sharing
 6. BDD - https://docs.google.com/document/d/1h9AACX6LGZO58w-JJierbaNDihtxICudoXhxYN2a8x8/edit?usp=sharing
+7. BDD - jakość testu - https://docs.google.com/document/d/11eY2SFHSUbQRMN5bXzblaYvd7PZLbr-eOtUc-ZPTonc/edit?usp=sharing
